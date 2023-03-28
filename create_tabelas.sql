@@ -72,3 +72,4 @@ CREATE TABLE tb_info_pedidos (
 	PRIMARY KEY (ID_pedido, ID_produto), 
 	Preço_venda_unid decimal(12,2) NOT NULL, 
 	Quant_prod_pedido smallint NOT NULL
+);
